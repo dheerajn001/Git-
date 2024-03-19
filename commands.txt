@@ -7,6 +7,6 @@ git config --global user.email ""
 git branch
 git pull
 git branch -d 
-
+git remote set-url --add origin https://PersonalAccessTockern@github.com/dheerajn001/Git-.git
 
 
